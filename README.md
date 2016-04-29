@@ -14,6 +14,6 @@ Often while developing an app, We ran into a condition when we need to scale ima
 
 ![AVXCAssets-Generator](https://github.com/angelvasa/AVXCAssets-Generator/blob/master/recording.gif)
 
-Author
+##Author
 
 If you wish to contact me, email at: vasaangel91@gmail.com
