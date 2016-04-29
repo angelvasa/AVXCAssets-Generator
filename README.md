@@ -15,12 +15,12 @@ Often while developing an app, We ran into a condition when we need to scale ima
 ![AVXCAssets-Generator](https://github.com/angelvasa/AVXCAssets-Generator/blob/master/recording.gif)
 
 
-Download AVXCAssets Generator:
+Download AVXCAssets Generator: 
 ----------------
 You can download this tool here [AVXCAssets Generator](https://github.com/angelvasa/AVXCAssets-Generator/raw/master/AVXCAssetsGenerator.dmg)
 
 
-##Author  😇😇😇
+##Author
 [Angel Vasa](https://github.com/angelvasa)
 
 If you have any suggestions or any feedback, You can send your valueable feedback on Twitter **[angel_vasa](https://twitter.com/angel_vasa)** or you can mail me at: **vasaangel91@gmail.com**
