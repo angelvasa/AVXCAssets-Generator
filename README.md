@@ -20,8 +20,7 @@ Download AVXCAssets Generator:
 You can download this tool here [AVXCAssets Generator](https://github.com/angelvasa/AVXCAssets-Generator/raw/master/AVXCAssetsGenerator.dmg)
 
 
-
-##Author
+##Author  😇😇😇
 [Angel Vasa](https://github.com/angelvasa)
 
 If you have any suggestions or any feedback, You can send your valueable feedback on Twitter **[angel_vasa](https://twitter.com/angel_vasa)** or you can mail me at: **vasaangel91@gmail.com**
