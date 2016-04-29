@@ -14,6 +14,13 @@ Often while developing an app, We ran into a condition when we need to scale ima
 
 ![AVXCAssets-Generator](https://github.com/angelvasa/AVXCAssets-Generator/blob/master/recording.gif)
 
+
+Download AVXCAssets Generator:
+----------------
+You can download this tool here [AVXCAssets Generator](https://github.com/angelvasa/AVXCAssets-Generator/blob/master/AVXCAssetsGenerator.dmg)
+
+
+
 ##Author
 [Angel Vasa](https://github.com/angelvasa)
 
