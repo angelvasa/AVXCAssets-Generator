@@ -8,7 +8,7 @@ Often while developing an app, We ran into a condition when we need to scale ima
 
 ##So time to say no to this: 😎😎😎
 
-**AVXCAssets Generator** takes path for your assets images and creates appiconset and imageset for you in just one click, **Give one and get all**
+**AVXCAssets Generator** takes path for your assets images and creates appiconset and imageset for you in just one click, **GIVE ONE GET ALL**
 
 ## A Gif is worth a thousand words 😜😜😜
 
