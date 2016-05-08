@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>images</key>
+	<array>
+		<dict>
+			<key>idiom</key>
+			<string>universal</string>
+			<key>scale</key>
+			<string>1x</string>
+			<key>filename</key>
+			<string>addAvatar.png</string>
+		</dict>
+		<dict>
+			<key>idiom</key>
+			<string>universal</string>
+			<key>scale</key>
+			<string>2x</string>
+			<key>filename</key>
+			<string>addAvatar@2x.png</string>
+		</dict>
+		<dict>
+			<key>idiom</key>
+			<string>universal</string>
+			<key>scale</key>
+			<string>3x</string>
+			<key>filename</key>
+			<string>addAvatar@3x.png</string>
+		</dict>
+	</array>
+	<key>info</key>
+	<dict>
+		<key>author</key>
+		<string>AVAssetCatalogCreator</string>
+		<key>version</key>
+		<integer>1</integer>
+	</dict>
+</dict>
+</plist>
