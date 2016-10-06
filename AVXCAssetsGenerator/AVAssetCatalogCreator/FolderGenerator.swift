@@ -12,7 +12,7 @@ import Cocoa
 
 class FolderGenerator: AnyObject {
     func generateFolders(atLocation destinationLocation:String, originLocation origin: String, withContents folderContent: [String]) -> Bool {
-        let xcAssetPath = destinationLocation + "Assets.xcassets"
+        let xcAssetPath = destinationLocation + "/" + "Assets.xcassets"
         let contentCreator = ContentCreator()
         do {
             try NSFileManager.defaultManager().createDirectoryAtPath(xcAssetPath, withIntermediateDirectories: true, attributes: nil)
