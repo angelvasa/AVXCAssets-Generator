@@ -105,11 +105,11 @@ extension AVAssetCatalogCreator {
                 switch button {
                     
                 case .originButton:
-                    assetOriginFolderPath = url.absoluteString.removeOccurence(ofString: "file://")
+                    assetOriginFolderPath = url.path!
                     originPathTextField.stringValue = assetOriginFolderPath
                     
                 case .destinationButton:
-                    assetDestinationFolderPath = url.absoluteString.removeOccurence(ofString: "file://")
+                    assetDestinationFolderPath = url.path!
                     destinationPathTextField.stringValue = assetDestinationFolderPath
                     
                 }
